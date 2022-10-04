@@ -21,7 +21,7 @@
 1. USB informations
 1. Partitions 
 1. HTML config export
-1. Virtual Machine Command (work in progress based on virt-manager CLI)
+1. Virtual Machine Command (**work in progress** based on virt-manager CLI)
 
 
 ## Blockquotes
