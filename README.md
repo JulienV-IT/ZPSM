@@ -3,7 +3,7 @@
 ## Zenity perf system monitor
 
 
-## ZPSM is a little shell script who can monitor your systeme performance  
+## ZPSM is a little shell script who can monitor your system performances  
 
 
 
